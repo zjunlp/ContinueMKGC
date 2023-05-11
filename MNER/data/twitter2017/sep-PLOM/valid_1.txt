@@ -1,0 +1,1960 @@
+IMGID:16_05_15_484
+Summer	O
+is	O
+the	O
+best	O
+time	O
+to	O
+catch	O
+one	O
+of	O
+the	O
+many	O
+musical	O
+concerts	O
+in	O
+the	O
+#	O
+Nashville	B-LOC
+area	O
+!	O
+
+IMGID:O_2713
+RT	O
+if	O
+you	O
+think	O
+David	O
+Cameron	O
+is	O
+a	O
+coward	O
+who	O
+has	O
+no	O
+arguments	O
+to	O
+stay	O
+in	O
+the	O
+EU	B-LOC
+
+IMGID:O_1855
+Yellowstone	B-LOC
+National	I-LOC
+Park	I-LOC
+at	O
+night	O
+,	O
+just	O
+wow	O
+😍	O
+
+IMGID:16_05_18_748
+Site	O
+change	O
+:	O
+Kelso	O
+'	O
+s	O
+3	O
+A	O
+regional	O
+baseball	O
+game	O
+v	O
+.	O
+Arlington	O
+Saturday	O
+moved	O
+to	O
+Sherman	B-LOC
+Anderson	I-LOC
+Field	I-LOC
+in	O
+Mount	B-LOC
+Vernon	I-LOC
+
+IMGID:O_4454
+❤	O
+#	O
+JustinBieber	O
+#	O
+Buzz	O
+Justin	O
+Bieber	O
+U	B-LOC
+.	I-LOC
+S	I-LOC
+.	I-LOC
+Bank	I-LOC
+Arena	I-LOC
+Cincinnati	B-LOC
+Ohio	B-LOC
+2	O
+tickets	O
+#	O
+Bieber	O
+#	O
+Deals	O
+…	O
+
+IMGID:16_05_11_178
+Indian	B-LOC
+rock	O
+opera	O
+shines	O
+unflattering	O
+light	O
+on	O
+Sacramento	B-LOC
+pioneer	O
+John	O
+Sutter	O
+:	O
+Was	O
+Sutter	O
+a	O
+…	O
+
+IMGID:O_2718
+Another	O
+photo	O
+of	O
+Justin	O
+Bieber	O
+spotted	O
+out	O
+in	O
+Monaco	B-LOC
+today	O
+.	O
+(	O
+June	O
+29	O
+)	O
+
+IMGID:O_98
+HQ	O
+photos	O
+of	O
+Justin	O
+Bieber	O
+at	O
+a	O
+party	O
+in	O
+Toronto	B-LOC
+,	O
+Canada	B-LOC
+.	O
+(	O
+April	O
+30	O
+)	O
+
+IMGID:17_06_7056
+Police	O
+and	O
+kids	O
+dancing	O
+at	O
+Manchester	B-LOC
+concert	O
+becomes	O
+a	O
+symbol	O
+of	O
+defiance	O
+
+IMGID:16_05_01_82
+Avril	O
+fans	O
+fender	O
+Aceh	B-LOC
+,	O
+for	O
+all	O
+members	O
+of	O
+Avril	O
+fans	O
+fender	O
+,	O
+the	O
+opinion	O
+of	O
+our	O
+music	O
+concerts	O
+money	O
+Rp	O
+4.7	O
+billion	O
+
+IMGID:16_05_01_116
+Sarah	O
+Palin	O
+thinks	O
+the	O
+US	B-LOC
+is	O
+giving	O
+immigrants	O
+gift	O
+baskets	O
+with	O
+‘	O
+teddy	O
+bears	O
+#	O
+Soccernews	O
+
+IMGID:16_05_09_331
+@	O
+Wale	O
+can	O
+you	O
+stop	O
+by	O
+our	O
+free	O
+football	O
+camp	O
+in	O
+DC	B-LOC
+June	O
+11	O
+kids	O
+would	O
+love	O
+it	O
+
+IMGID:O_1845
+Robert	O
+Downey	O
+Jr	O
+.	O
+paid	O
+a	O
+visit	O
+to	O
+the	O
+Great	B-LOC
+Ormond	I-LOC
+Street	I-LOC
+Hospital	I-LOC
+in	O
+London	B-LOC
+and	O
+met	O
+young	O
+super	O
+fans	O
+💯	O
+👌	O
+
+IMGID:O_1318
+Photos	O
+of	O
+Justin	O
+Bieber	O
+with	O
+the	O
+kids	O
+at	O
+@	O
+ArmsParkCardiff	B-LOC
+that	O
+he	O
+visited	O
+today	O
+.	O
+(	O
+June	O
+30	O
+)	O
+
+IMGID:16_05_07_305
+Head	O
+over	O
+to	O
+@	O
+WestfieldCS	B-LOC
+for	O
+our	O
+pop	O
+-	O
+up	O
+concert	O
+at	O
+6	O
+:	O
+30	O
+pm	O
+!	O
+
+IMGID:O_881
+humans	O
+TV	O
+show	O
+shooting	O
+happening	O
+at	O
+the	O
+Liverpool	B-LOC
+Street	I-LOC
+station	I-LOC
+.	O
+Cool	O
+to	O
+see	O
+the	O
+actors	O
+in	O
+front	O
+of	O
+me	O
+
+IMGID:O_3283
+Arizona	B-LOC
+Poll	O
+–	O
+John	O
+McCain	O
+Has	O
+Serious	O
+Primary	O
+Fight	O
+:	O
+McCain	O
+41	O
+%	O
+,	O
+Kelli	O
+Ward	O
+41	O
+%	O
+…	O
+
+IMGID:17_06_6554
+#	O
+Australia	O
+#	O
+Soccer	O
+#	O
+SaudiaArabia	O
+refused	O
+to	O
+stand	O
+for	O
+a	O
+minute	O
+'	O
+s	O
+silence	O
+for	O
+victims	O
+of	O
+London	B-LOC
+attack	O
+
+IMGID:O_1418
+Arizona	B-LOC
+sheriff	O
+Joe	O
+Arpaio	O
+found	O
+in	O
+contempt	O
+in	O
+racial	O
+profiling	O
+case	O
+
+IMGID:16_05_02_539
+Fancy	O
+a	O
+trip	O
+to	O
+#	O
+Barnsley	B-LOC
+#	O
+Darton	B-LOC
+#	O
+Mapplewell	B-LOC
+this	O
+weekend	O
+.	O
+Come	O
+to	O
+a	O
+#	O
+concert	O
+better	O
+than	O
+#	O
+football	O
+
+IMGID:16_05_31_831
+My	O
+favourite	O
+films	O
+of	O
+the	O
+year	O
+so	O
+far	O
+,	O
+based	O
+on	O
+the	O
+Australian	B-LOC
+release	O
+schedule	O
+,	O
+festivals	O
+and	O
+VOD	O
+,	O
+not	O
+ranked	O
+.	O
+
+IMGID:O_182
+♦	O
+️	O
+🇺	O
+🇸	O
+♦	O
+NYT	O
+implies	O
+that	O
+a	O
+'	O
+flirty	O
+'	O
+Trump	O
+can	O
+'	O
+t	O
+be	O
+in	O
+the	O
+White	B-LOC
+House	I-LOC
+,	O
+but	O
+an	O
+impeached	O
+Bill	O
+Clinton	O
+can	O
+.	O
+#	O
+Trump2016	O
+
+IMGID:17_06_1977
+Best	O
+photos	O
+of	O
+the	O
+day	O
+:	O
+Samaritans	O
+at	O
+dawn	O
+and	O
+a	O
+statue	O
+festival	O
+in	O
+Romania	B-LOC
+
+IMGID:17_06_8027
+#	O
+TampaBay	B-LOC
+RT	O
+"	O
+#	O
+FSU	O
+A	O
+trip	O
+to	O
+Omaha	B-LOC
+is	O
+on	O
+the	O
+line	O
+.	O
+#	O
+RoadToOmaha	O
+@	O
+FSUBaseball	O
+
+IMGID:16_05_22_412
+High	O
+school	O
+football	O
+season	O
+in	O
+full	O
+swing	O
+in	O
+Niagara	B-LOC
+0	O
+.	O
+.	O
+.	O
+
+IMGID:O_2969
+My	O
+lil	O
+bro	O
+'	O
+s	O
+gonna	O
+find	O
+me	O
+some	O
+love	O
+while	O
+he	O
+'	O
+s	O
+in	O
+Texas	B-LOC
+
+IMGID:O_2469
+Donald	O
+Trump	O
+unveils	O
+plan	O
+to	O
+cut	O
+red	O
+tape	O
+that	O
+is	O
+holding	O
+back	O
+American	B-LOC
+industry	O
+-	O
+
+IMGID:16_05_02_242
+Where	O
+in	O
+the	O
+world	O
+?	O
+Open	O
+air	O
+bar	O
+in	O
+Dubai	B-LOC
+.	O
+#	O
+bbcfootball	O
+
+IMGID:17_06_15729
+Syria	B-LOC
+conflict	O
+:	O
+Russia	B-LOC
+issues	O
+warning	O
+after	O
+US	B-LOC
+coalition	O
+downs	O
+jet	O
+
+IMGID:O_1940
+❤	O
+#	O
+Hollywood	B-LOC
+#	O
+Celebs	O
+JESSICA	O
+ALBA	O
+COVER	O
+ESTONIAN	O
+COSMOPOLITAN	O
+MAGAZINE	O
+MAY	O
+2005	O
+IN	O
+GOOD	O
+…	O
+
+IMGID:O_869
+Young	O
+man	O
+yells	O
+"	O
+Go	O
+back	O
+to	O
+Mexico	B-LOC
+"	O
+as	O
+these	O
+folks	O
+yell	O
+"	O
+Fuck	O
+Donald	O
+Trump	O
+.	O
+"	O
+
+IMGID:17_06_7547
+This	O
+girl	O
+was	O
+too	O
+ill	O
+to	O
+visit	O
+Florence	B-LOC
+and	O
+the	O
+Machine	O
+concert	O
+,	O
+so	O
+they	O
+paid	O
+.	O
+.	O
+.	O
+-	O
+
+IMGID:O_4071
+David	O
+Cameron	O
+has	O
+delayed	O
+publication	O
+of	O
+the	O
+Chilcot	O
+Report	O
+into	O
+the	O
+Iraq	B-LOC
+War	O
+until	O
+after	O
+the	O
+EU	B-LOC
+referendum	O
+.	O
+
+IMGID:16_05_01_349
+FREE	O
+CONCERT	O
+TODAY	O
+2	O
+pm	O
+:	O
+@	O
+OSOmusicians	O
+performs	O
+in	O
+#	O
+vanwa	O
+#	O
+Vancouver	B-LOC
+#	O
+upclosepdx	O
+
+IMGID:O_1030
+My	O
+SandArt	O
+at	O
+Puri	B-LOC
+beach	I-LOC
+on	O
+#	O
+GST	O
+,	O
+ONE	O
+NATION	O
+.	O
+ONE	O
+TAX	O
+.	O
+ONE	O
+MARKET	O
+.	O
+#	O
+WelcomeGST	O
+
+IMGID:O_149
+RECORD	O
+:	O
+Andrés	O
+Iniesta	O
+has	O
+now	O
+won	O
+more	O
+titles	O
+than	O
+any	O
+other	O
+Spanish	B-LOC
+player	O
+(	O
+29	O
+)	O
+in	O
+football	O
+history	O
+.	O
+
+IMGID:16_05_04_1154
+Delicious	O
+food	O
+festivals	O
+in	O
+Boston	B-LOC
+,	O
+from	O
+Seafood	O
+to	O
+Marshmallow	O
+Fluff	O
+:	O
+
+IMGID:O_4946
+Donald	O
+Trump	O
+Tells	O
+West	B-LOC
+Virginia	I-LOC
+Primary	O
+Voters	O
+to	O
+Stay	O
+Home	O
+
+IMGID:16_05_11_436
+Azealia	O
+Banks	O
+apologises	O
+to	O
+UK	B-LOC
+fans	O
+after	O
+she	O
+'	O
+s	O
+dropped	O
+from	O
+London	B-LOC
+festival	O
+
+IMGID:O_2971
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+,	O
+Brazil	B-LOC
+.	O
+Photo	O
+by	O
+Brian	O
+Mosby	O
+.	O
+
+IMGID:O_2332
+One	O
+piece	O
+of	O
+paper	O
+is	O
+changing	O
+the	O
+lives	O
+of	O
+Colorado	B-LOC
+'	O
+s	O
+adult	O
+adoptees	O
+
+IMGID:17_06_9816
+.	O
+@	O
+RobGronkowski	O
+Sneaks	O
+Into	O
+Texas	B-LOC
+HS	I-LOC
+Football	O
+Stadium	O
+For	O
+Workout	O
+:	O
+
+IMGID:16_05_26_429
+New	O
+shipment	O
+of	O
+@	O
+TubbyJacks	O
+smoking	O
+chips	O
+arrived	O
+today	O
+in	O
+time	O
+for	O
+the	O
+@	O
+greatfooddrink	O
+festival	O
+at	O
+@	O
+NottmCastle	B-LOC
+
+IMGID:O_2699
+Kim	O
+Kardashian	O
+Wearing	O
+Balmain	O
+Pre	O
+-	O
+Fall	O
+2016	O
+in	O
+Beverly	B-LOC
+Hills	I-LOC
+last	O
+night	O
+🎌	O
+
+IMGID:O_1398
+A	O
+Colorado	B-LOC
+GOP	O
+Senate	O
+candidate	O
+just	O
+had	O
+a	O
+meltdown	O
+worthy	O
+of	O
+Marco	O
+Rubio	O
+:	O
+
+IMGID:16_05_01_221
+[	O
+Live	O
+]	O
+160501	O
+#	O
+ZTAOTheRoad	O
+Nanjing	B-LOC
+Concert	O
+Live	O
+link	O
+:	O
+
+IMGID:16_05_27_62
+Free	O
+concerts	O
+on	O
+Ludlow	B-LOC
+👌	O
+
+IMGID:O_100
+Beautiful	O
+night	O
+in	O
+#	O
+southie	B-LOC
+to	O
+watch	O
+Little	O
+League	O
+baseball	O
+with	O
+the	O
+full	O
+moon	O
+over	O
+the	O
+ocean	O
+.	O
+
+IMGID:16_05_06_739
+2016.05	O
+.	O
+01	O
+～	O
+Firefly	O
+ACG	O
+festival	O
+in	O
+Guangzhou	B-LOC
+～	O
+lovelive	O
+！	O
+cosplay	O
+～	O
+
+IMGID:17_01_14799
+We	O
+are	O
+Tottenham	O
+,	O
+We	O
+are	O
+Tottenham	O
+,	O
+Super	O
+Tottenham	O
+,	O
+From	O
+the	O
+Lane	B-LOC
+,	O
+#	O
+COYS	O
+-	O
+via	O
+@	O
+footballalarm	O
+
+IMGID:16_05_13_757
+Franklin	O
+baseball	O
+team	O
+hosting	O
+USA	B-LOC
+Baseball	O
+12	O
+U	O
+camps	O
+–	O
+
+IMGID:O_1925
+Photo	O
+of	O
+Justin	O
+Bieber	O
+spotted	O
+in	O
+Saint	B-LOC
+-	I-LOC
+Tropez	I-LOC
+,	O
+France	B-LOC
+today	O
+.	O
+(	O
+May	O
+31	O
+)	O
+
+IMGID:16_05_06_92
+Close	O
+quarters	O
+concert	O
+tonight	O
+in	O
+San	B-LOC
+Francisco	I-LOC
+.	O
+Baroque	O
+,	O
+Americana	O
+and	O
+American	B-LOC
+composers	O
+.	O
+
+IMGID:O_4548
+NEW	O
+PHOTOS	O
+:	O
+Lady	O
+Gaga	O
+leaves	O
+her	O
+apartment	O
+in	O
+NYC	B-LOC
+(	O
+May	O
+11	O
+)	O
+
+IMGID:O_72
+Taylor	O
+Swift	O
+was	O
+out	O
+in	O
+Los	B-LOC
+Angeles	I-LOC
+today	O
+and	O
+stopped	O
+to	O
+take	O
+a	O
+picture	O
+with	O
+a	O
+fan	O
+on	O
+her	O
+way	O
+!	O
+So	O
+cute	O
+!	O
+😎	O
+
+IMGID:17_06_5577
+Charity	O
+BBQ	O
+at	O
+the	O
+Miracle	O
+League	O
+baseball	O
+diamond	O
+.	O
+All	O
+proceeds	O
+go	O
+back	O
+to	O
+the	O
+Miracle	O
+League	O
+!	O
+#	O
+Amherstburg	B-LOC
+
+IMGID:16_05_08_551
+Congratulations	O
+Leipzig	B-LOC
+.	O
+RBL	O
+win	O
+promotion	O
+to	O
+the	O
+Bundesliga	O
+for	O
+the	O
+first	O
+time	O
+ever	O
+.	O
+
+IMGID:O_2805
+a	O
+little	O
+beach	O
+before	O
+returning	O
+home	O
+.	O
+.	O
+.	O
+.	O
+Love	O
+Rio	B-LOC
+de	I-LOC
+Janeiro	I-LOC
+.	O
+.	O
+🍾	O
+🍾	O
+🍾	O
+🍾	O
+🍾	O
+🍾	O
+😍	O
+😍	O
+😍	O
+😍	O
+😍	O
+😍	O
+#	O
+viajetravel	O
+…	O
+
+IMGID:O_2864
+Universal	O
+Studios	O
+brings	O
+the	B-LOC
+wizarding	I-LOC
+world	I-LOC
+of	I-LOC
+Harry	I-LOC
+Potter	I-LOC
+to	O
+life	O
+.	O
+
+IMGID:17_06_9860
+In	O
+St	B-LOC
+.	I-LOC
+Petersburg	I-LOC
+the	O
+fifth	O
+season	O
+of	O
+the	O
+Soccer	O
+for	O
+Friendship	O
+project	O
+started	O
+
+IMGID:16_05_04_126
+Join	O
+us	O
+for	O
+a	O
+free	O
+concert	O
+,	O
+food	O
+trucks	O
+and	O
+more	O
+on	O
+May	O
+14	O
+in	O
+Orlando	B-LOC
+,	O
+Florida	B-LOC
+!	O
+
+IMGID:O_4034
+GOOD	O
+MORNING	O
+INDIANA	B-LOC
+😁	O
+!	O
+LETS	O
+SHOOT	O
+THIS	O
+TO	O
+THE	O
+MOON	O
+TODAY	O
+-	O
+STAND	O
+WITH	O
+AMERICA	B-LOC
+BEHIND	O
+DONALD	O
+TRUMP	O
+B	O
+LOUD	O
+!	O
+
+IMGID:16_05_13_852
+We	O
+had	O
+a	O
+great	O
+time	O
+hosting	O
+this	O
+group	O
+from	O
+Boston	B-LOC
+!	O
+Their	O
+only	O
+complaint	O
+:	O
+We	O
+root	O
+for	O
+the	O
+'	O
+wrong	O
+'	O
+baseball	O
+team	O
+.	O
+
+IMGID:O_1503
+Another	O
+photo	O
+of	O
+Justin	O
+Bieber	O
+at	O
+Target	B-LOC
+today	O
+in	O
+West	B-LOC
+Hollywood	I-LOC
+,	O
+California	B-LOC
+.	O
+(	O
+May	O
+24	O
+)	O
+
+IMGID:16_05_29_356
+Beautiful	O
+day	O
+for	O
+a	O
+food	O
+festival	O
+@	O
+talbotmalton	B-LOC
+wish	O
+I	O
+was	O
+doing	O
+a	O
+demo	O
+today	O
+.	O
+
+IMGID:17_06_10243
+Redmond	O
+insists	O
+England	B-LOC
+'	O
+s	O
+U21s	O
+are	O
+Premier	O
+League	O
+ready	O
+:	O
+The	O
+England	B-LOC
+Under	O
+-	O
+21	O
+winger	O
+.	O
+.	O
+
+IMGID:O_1710
+EXCLUSIVE	O
+:	O
+Donald	O
+Trump	O
+says	O
+he	O
+is	O
+willing	O
+to	O
+talk	O
+to	O
+North	B-LOC
+Korea	I-LOC
+'	O
+s	O
+Kim	O
+Jong	O
+Un	O
+over	O
+nuclear	O
+program	O
+.	O
+
+IMGID:16_05_01_594
+Just	O
+how	O
+grimy	O
+is	O
+Bangkok	B-LOC
+?	O
+My	O
+kids	O
+don	O
+'	O
+t	O
+trade	O
+baseball	O
+cards	O
+at	O
+schoo	O
+;	O
+trading	O
+mini	O
+hand	O
+-	O
+sanitizers	O
+all	O
+the	O
+rage	O
+.	O
+
+IMGID:17_01_4944
+Are	O
+the	O
+Redskins	O
+the	O
+Cradle	O
+of	O
+Coaches	O
+?	O
+Who	O
+knew	O
+?	O
+#	O
+redskins	O
+#	O
+washington	B-LOC
+#	O
+NFL	O
+
+IMGID:17_06_11933
+@	O
+ScottMillerMLB	O
+Bayside	O
+at	O
+Irving	B-LOC
+Plaza	I-LOC
+(	O
+Sep	O
+12,	O
+2017	O
+)	O
+
+IMGID:16_05_03_194
+04	O
+s	O
+training	O
+at	O
+the	O
+national	O
+training	O
+center	O
+.	O
+Home	O
+of	O
+Spanish	B-LOC
+soccer	O
+We	O
+had	O
+an	O
+epic	O
+kick	O
+ball	O
+game	O
+here	O
+back	O
+in	O
+2010	O
+
+IMGID:16_05_01_329
+Rare	O
+#	O
+Chinese	B-LOC
+Qing	B-LOC
+Dynasty	I-LOC
+Qianlong	O
+Masterpiece	O
+Vase	O
+with	O
+islamic	O
+influence	O
+at	O
+
+IMGID:16_05_02_875
+Eat	O
+,	O
+sleep	O
+,	O
+baseball	O
+.	O
+Or	O
+you	O
+can	O
+eat	O
+like	O
+you	O
+'	O
+re	O
+at	O
+the	O
+ball	O
+park	O
+.	O
+Hot	O
+Dogs	O
+,	O
+Sausages	O
+in	O
+the	O
+Brickstone	B-LOC
+today	O
+!	O
+
+IMGID:16_05_12_956
+Italian	B-LOC
+champion	O
+Gigi	O
+Buffon	O
+gets	O
+a	O
+signed	O
+shirt	O
+from	O
+the	O
+Premier	O
+League	O
+champions	O
+Leicester	O
+City	O
+.	O
+
+IMGID:16_05_08_744
+Nollywood	O
+Actresses	O
+Show	O
+Off	O
+Their	O
+Bums	O
+During	O
+Football	O
+Match	O
+In	O
+Ghana	B-LOC
+(	O
+Photos	O
+)	O
+
+IMGID:17_06_8304
+Olivia	O
+knows	O
+ppl	O
+so	O
+we	O
+are	O
+on	O
+second	O
+level	O
+of	O
+century	B-LOC
+2	I-LOC
+for	O
+the	O
+common	O
+concert	O
+
+IMGID:17_06_10337
+NY	O
+Philharmonic	O
+Free	O
+Central	B-LOC
+Park	I-LOC
+Concert	O
+:	O
+What	O
+To	O
+Know	O
+Before	O
+Going	O
+
+IMGID:16_05_09_574
+Tickets	O
+for	O
+tonight	O
+'	O
+s	O
+Beyonce	O
+concert	O
+in	O
+Arlington	B-LOC
+as	O
+low	O
+as	O
+$	O
+48	O
+on	O
+secondary	O
+market	O
+
+IMGID:17_06_9315
+CONCERT	O
+DAY	O
+STOP	O
+NUMBER	O
+TWO	O
+:	O
+THE	B-LOC
+THURMAN	I-LOC
+CAFE	I-LOC
+ft	O
+@	O
+Awsomtisity	O
+
+IMGID:O_262
+Here	O
+'	O
+s	O
+why	O
+I	O
+'	O
+m	O
+NOT	O
+moving	O
+to	O
+Canada	B-LOC
+if	O
+Donald	O
+Trump	O
+wins	O
+
+IMGID:16_05_15_314
+#	O
+Barcelona	O
+celebrates	O
+Spanish	B-LOC
+league	O
+title	O
+with	O
+city	O
+parade	O
+
+IMGID:O_278
+Justin	O
+Bieber	O
+spotted	O
+sitting	O
+in	O
+a	O
+tree	O
+and	O
+avoiding	O
+fans	O
+in	O
+Boston	B-LOC
+.	O
+
+IMGID:16_05_25_975
+@	O
+Texas1AFan	O
+three	O
+girls	O
+from	O
+Chireno	B-LOC
+signed	O
+NLI	O
+today	O
+.	O
+2	O
+for	O
+basketball	O
+and	O
+one	O
+for	O
+cross	O
+country	O
+/	O
+Track	O
+
+IMGID:16_05_11_605
+The	O
+baseball	O
+game	O
+at	O
+Switzerland	B-LOC
+Co	I-LOC
+.	O
+is	O
+just	O
+getting	O
+started	O
+.	O
+
+IMGID:17_06_6231
+Much	O
+respect	O
+and	O
+appreciation	O
+to	O
+@	O
+PelicansNBA	O
+Student	O
+Drum	O
+Line	O
+for	O
+opening	O
+things	O
+up	O
+at	O
+#	O
+Louisiana	B-LOC
+#	O
+TeacherLeaders	O
+
+IMGID:16_05_31_352
+Live	O
+Football	O
+tonight	O
+:	O
+Ireland	O
+vs	O
+Belarus	O
+in	O
+their	O
+final	O
+Euro	B-LOC
+preparation	O
+game	O
+.	O
+Kick	O
+off	O
+7.45	O
+pm	O
+@	O
+the	O
+Devenish	B-LOC
+⚽	O
+️	O
+
+IMGID:O_4070
+Pakistan	B-LOC
+to	O
+Donald	O
+Trump	O
+:	O
+'	O
+We	O
+are	O
+not	O
+a	O
+U	B-LOC
+.	I-LOC
+S	I-LOC
+.	O
+colony	O
+'	O
+.	O
+
+IMGID:16_05_21_903
+Ahh	O
+Mount	B-LOC
+Mawson	I-LOC
+.	O
+What	O
+a	O
+place	O
+.	O
+Here	O
+is	O
+what	O
+it	O
+currently	O
+looks	O
+like	O
+#	O
+mawsonbasecam	O
+
+IMGID:O_1204
+Ryan	O
+Adams	O
+LIVE	O
+at	O
+Alix	B-LOC
+Goolden	I-LOC
+Performance	I-LOC
+Hall	I-LOC
+–	O
+Victoria	B-LOC
+,	O
+BC	B-LOC
+–	O
+25	O
+June	O
+,	O
+2017	O
+
+IMGID:O_2284
+Photos	O
+of	O
+Justin	O
+Bieber	O
+seen	O
+at	O
+Sport	B-LOC
+'	I-LOC
+s	I-LOC
+Authority	I-LOC
+and	O
+Target	B-LOC
+in	O
+Los	B-LOC
+Angeles	I-LOC
+,	O
+CA	B-LOC
+.	O
+(	O
+February	O
+1	O
+)	O
+
+IMGID:O_4115
+Sadiq	O
+Khan	O
+'	O
+s	O
+win	O
+was	O
+a	O
+rebuke	O
+to	O
+Western	B-LOC
+nativists	O
+like	O
+Donald	O
+Trump	O
+and	O
+Nigel	O
+Farage	O
+
+IMGID:16_05_06_567
+Good	O
+morning	O
+Saskatoon	B-LOC
+!	O
+It	O
+'	O
+s	O
+been	O
+awhile	O
+!	O
+#	O
+canadasoccer	O
+#	O
+cdnpoli	O
+#	O
+onpoli	O
+#	O
+saskpoli	O
+
+IMGID:17_06_1975
+2	O
+Baba	O
+live	O
+in	O
+Isolo	B-LOC
+#	O
+UniversalLoveConcert	O
+with	O
+Righteousman	O
+@	O
+iamrighteousman	O
+@	O
+official2baba	O
+
+IMGID:O_1368
+Miami	B-LOC
+commissioners	O
+approve	O
+sale	O
+of	O
+land	O
+to	O
+David	O
+Beckham	O
+ownership	O
+group	O
+:	O
+
+IMGID:16_05_04_970
+How	O
+far	O
+would	O
+you	O
+go	O
+for	O
+the	O
+love	O
+of	O
+the	O
+game	O
+?	O
+#	O
+baseballnomad	O
+going	O
+to	O
+teach	O
+8	O
+years	O
+baseball	O
+in	O
+Indonesia	B-LOC
+!	O
+
+IMGID:16_05_29_329
+Enjoyed	O
+performing	O
+at	O
+Royal	B-LOC
+Festival	I-LOC
+Hall	I-LOC
+.	O
+#	O
+London	B-LOC
+#	O
+Alchemy2016	O
+#	O
+RoyalFestivalHall	B-LOC
+#	O
+Weekend	O
+#	O
+dance	O
+#	O
+Classical	O
+#	O
+Indian	B-LOC
+
+IMGID:O_2993
+Florida	B-LOC
+Governor	O
+Rick	O
+Scott	O
+has	O
+endorsed	O
+Donald	O
+Trump	O
+for	O
+President	O
+!	O
+#	O
+Trump2016	O
+#	O
+TrumpTrain	O
+
+IMGID:17_06_4589
+Hairy	O
+Dragonfly	O
+at	O
+Potter	B-LOC
+Heigham	I-LOC
+yesterday	O
+.	O
+
+IMGID:16_05_19_34
+@	O
+Beyonce	O
+'	O
+s	O
+Seattle	B-LOC
+concert	O
+.	O
+.	O
+.	O
+.	O
+nuff	O
+said	O
+#	O
+micdrop	O
+
+IMGID:O_939
+HQ	O
+photos	O
+of	O
+Justin	O
+Bieber	O
+spotted	O
+out	O
+in	O
+Las	B-LOC
+Vegas	I-LOC
+,	O
+NV	B-LOC
+today	O
+.	O
+(	O
+May	O
+22	O
+)	O
+
+IMGID:O_2959
+Sergio	O
+Ramos	O
+,	O
+Man	O
+of	O
+the	O
+Match	O
+Milano	B-LOC
+2016	O
+.	O
+
+IMGID:16_05_15_779
+Day	O
+two	O
+at	O
+Burns	B-LOC
+Park	I-LOC
+#	O
+arbaseball	O
+
+IMGID:16_05_24_582
+First	O
+pet	O
+parade	O
+participant	O
+is	O
+raring	O
+to	O
+go	O
+.	O
+Join	O
+us	O
+!	O
+4	O
+:	O
+15	O
+at	O
+Colman	B-LOC
+dock	I-LOC
+#	O
+FerryTails	O
+
+IMGID:O_3178
+More	O
+photos	O
+of	O
+Justin	O
+Bieber	O
+at	O
+a	O
+club	O
+in	O
+Milan	B-LOC
+,	O
+Italy	B-LOC
+on	O
+Sunday	O
+night	O
+.	O
+(	O
+June	O
+18	O
+)	O
+
