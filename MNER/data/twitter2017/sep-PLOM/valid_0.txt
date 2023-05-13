@@ -1,0 +1,3578 @@
+IMGID:O_4026
+Pharma	O
+Douche	O
+Martin	B-PER
+Shkreli	I-PER
+:	O
+People	O
+Who	O
+Don	O
+'	O
+t	O
+Like	O
+Donald	B-PER
+Trump	I-PER
+Are	O
+Jealous	O
+,	O
+Stupid	O
+,	O
+.	O
+.	O
+.	O
+-	O
+
+IMGID:17_06_14541
+Diego	B-PER
+Forlán	I-PER
+:	O
+"	O
+If	O
+nerves	O
+undo	O
+you	O
+then	O
+you	O
+are	O
+unlikely	O
+to	O
+make	O
+it	O
+as	O
+a	O
+top	O
+footballer	O
+.	O
+"	O
+
+IMGID:16_05_24_478
+Missed	O
+@	O
+ForeignerMusic	B-PER
+'	O
+s	O
+live	O
+performance	O
+?	O
+Watch	O
+whole	O
+concert	O
+here	O
+.	O
+Now	O
+!	O
+
+IMGID:O_4189
+#	O
+eva	B-PER
+green	I-PER
+nude	O
+clip	O
+elephant	O
+sex	O
+with	O
+a	O
+girl	O
+pictures	O
+
+IMGID:17_06_8019
+Vince	B-PER
+enjoying	O
+the	O
+sun	O
+.	O
+#	O
+sunbathing	O
+
+IMGID:16_05_15_797
+Anthony	B-PER
+Kiedis	I-PER
+of	O
+Red	B-PER
+Hot	I-PER
+Chili	I-PER
+Peppers	I-PER
+hospitalised	O
+as	O
+band	O
+cancels	O
+concert	O
+
+IMGID:O_208
+WATCH	O
+:	O
+New	O
+Trump	B-PER
+video	O
+features	O
+audio	O
+of	O
+Bill	B-PER
+Clinton	I-PER
+'	O
+s	O
+sexual	O
+assault	O
+accusers	O
+
+IMGID:16_05_16_449
+Getting	O
+a	O
+party	O
+bus	O
+for	O
+the	O
+Nelly	B-PER
+concert	O
+July	O
+1	O
+st	O
+.	O
+Easily	O
+gonna	O
+be	O
+the	O
+concert	O
+of	O
+the	O
+summer	O
+
+IMGID:O_3195
+Get	O
+Close	O
+Enough	O
+To	O
+Adam	B-PER
+Levine	I-PER
+To	O
+Get	O
+A	O
+Brag	O
+Worthy	O
+Selfie	O
+…	O
+:	O
+
+IMGID:O_2371
+News	O
+Update	O
+Angelina	B-PER
+Jolie	I-PER
+slams	O
+Donald	B-PER
+Trump	I-PER
+'	O
+s	O
+stance	O
+on	O
+religious	O
+freedom	O
+and	O
+immigration	O
+
+IMGID:O_3111
+.	O
+@	O
+johnsap25	B-PER
+:	O
+Cunning	O
+plan	O
+to	O
+oust	O
+Donald	B-PER
+Trump	I-PER
+could	O
+be	O
+in	O
+the	O
+works	O
+
+IMGID:O_4031
+Former	O
+Vice	O
+President	O
+Dick	B-PER
+Cheney	I-PER
+will	O
+support	O
+Donald	B-PER
+Trump	I-PER
+despite	O
+9	O
+/	O
+11	O
+claims	O
+
+IMGID:O_2035
+Active	O
+Duty	O
+Military	O
+Poll	O
+:	O
+Donald	B-PER
+Trump	I-PER
+54	O
+%	O
+,	O
+Hillary	B-PER
+Clinton	I-PER
+25	O
+%	O
+…	O
+
+IMGID:O_2878
+Hugh	B-PER
+Jackman	I-PER
+will	O
+stop	O
+being	O
+Wolverine	B-PER
+soon	O
+.	O
+It	O
+'	O
+s	O
+okay	O
+though	O
+,	O
+we	O
+have	O
+a	O
+new	O
+favorite	O
+X	O
+-	O
+Men	O
+
+IMGID:O_296
+51	O
+-	O
+year	O
+-	O
+old	O
+Gordie	B-PER
+Howe	I-PER
+faces	O
+off	O
+against	O
+18	O
+-	O
+year	O
+-	O
+old	O
+Wayne	B-PER
+Gretzky	I-PER
+.	O
+
+IMGID:O_1134
+Stephen	B-PER
+Hawking	I-PER
+was	O
+asked	O
+if	O
+he	O
+could	O
+explain	O
+Donald	B-PER
+Trump	I-PER
+'	O
+s	O
+rise	O
+.	O
+His	O
+response	O
+?	O
+"	O
+I	O
+can	O
+'	O
+t	O
+.	O
+"	O
+
+IMGID:O_3040
+These	O
+Wealthy	O
+People	O
+Refuse	O
+to	O
+Give	O
+Donald	B-PER
+Trump	I-PER
+Money	O
+.	O
+Here	O
+’	O
+s	O
+Why	O
+.	O
+-	O
+
+IMGID:O_2537
+I	O
+'	O
+ve	O
+added	O
+new	O
+/	O
+old	O
+candids	O
+of	O
+Dakota	O
+at	O
+Stephen	B-PER
+Colbert	I-PER
+signing	O
+some	O
+pictures	O
+from	O
+May	O
+3	O
+rd	O
+:	O
+
+IMGID:O_2458
+my	O
+#	O
+TeenChoice	O
+vote	O
+for	O
+#	O
+ChoiceDramaTVActress	O
+is	O
+Jennifer	B-PER
+Lopez	I-PER
+@	O
+JLo	B-PER
+
+IMGID:O_3031
+Harry	B-PER
+styles	I-PER
+wearing	O
+white	O
+sneakers	O
+rt	O
+for	O
+good	O
+luck	O
+
+IMGID:O_1942
+Zac	B-PER
+Efron	I-PER
+wore	O
+a	O
+pink	O
+shirt	O
+on	O
+a	O
+pink	O
+scooter	O
+because	O
+we	O
+all	O
+deserve	O
+nice	O
+things	O
+
+IMGID:O_1728
+what	O
+is	O
+going	O
+to	O
+happen	O
+in	O
+the	O
+next	O
+episode	O
+of	O
+keeping	O
+up	O
+the	O
+with	O
+one	B-PER
+direction	I-PER
+no	O
+one	O
+knows	O
+this	O
+is	O
+a	O
+mess	O
+
+IMGID:O_894
+1803	O
+-	O
+1807	O
+9	O
+vol	O
+Plays	O
+Of	O
+William	B-PER
+Shakespeare	I-PER
+Annotations	O
+By	O
+Various	O
+Commentators	O
+
+IMGID:O_3167
+Lil	B-PER
+Yachty	I-PER
+,	O
+Lil	B-PER
+B	I-PER
+and	O
+Soulja	B-PER
+Boy	I-PER
+are	O
+working	O
+on	O
+a	O
+joint	O
+mixtape	O
+
+IMGID:O_1792
+John	B-PER
+F	I-PER
+.	I-PER
+Kennedy	I-PER
+(	O
+painted	O
+by	O
+Jamie	B-PER
+Wyeth	I-PER
+,	O
+1967	O
+)	O
+would	O
+have	O
+been	O
+99	O
+years	O
+old	O
+today	O
+:	O
+
+IMGID:O_2813
+[	O
+VIDEO	O
+]	O
+Skrillex	B-PER
+tries	O
+to	O
+prove	O
+he	O
+and	O
+Justin	B-PER
+Bieber	I-PER
+didn	O
+'	O
+t	O
+.	O
+.	O
+.	O
+
+IMGID:16_05_01_6
+5	O
+days	O
+until	O
+JUSTIN	B-PER
+BIEBER	I-PER
+CONCERT	O
+omfg	O
+Ima	O
+die	O
+#	O
+puposetour	O
+@	O
+alminababexox	O
+@	O
+justinbieber	B-PER
+
+IMGID:16_05_30_151
+Sonu	B-PER
+Nigam	I-PER
+To	O
+Undergo	O
+Surgery	O
+;	O
+Cancels	O
+Concerts	O
+.	O
+.	O
+.	O
+
+IMGID:O_1432
+Justin	B-PER
+Bieber	I-PER
+'	O
+s	O
+Cuteness	O
+Is	O
+On	O
+Another	O
+Level	O
+!	O
+!	O
+!	O
+!	O
+!	O
+
+IMGID:O_1406
+Zac	B-PER
+Efron	I-PER
+re	O
+-	O
+created	O
+his	O
+crimped	O
+hair	O
+look	O
+oh	O
+my	O
+god	O
+😭	O
+😂	O
+
+IMGID:O_1655
+Why	O
+is	O
+Bill	B-PER
+Clinton	I-PER
+lookin	O
+like	O
+he	O
+got	O
+a	O
+case	O
+of	O
+the	O
+suds	O
+?	O
+
+IMGID:O_185
+The	O
+best	O
+-	O
+selling	O
+female	O
+albums	O
+released	O
+this	O
+decade	O
+belong	O
+to	O
+Adele	B-PER
+(	O
+2	O
+x	O
+)	O
+,	O
+Taylor	B-PER
+Swift	I-PER
+and	O
+Lady	B-PER
+Gaga	I-PER
+!	O
+
+IMGID:O_2732
+David	B-PER
+Beckham	I-PER
+turns	O
+41	O
+today	O
+,	O
+Diego	B-PER
+Costa	I-PER
+is	O
+27	O
+.	O
+
+IMGID:O_1644
+Shah	B-PER
+Rukh	I-PER
+Khan	I-PER
+spotted	O
+for	O
+an	O
+shoot	O
+.	O
+.	O
+looking	O
+young	O
+as	O
+ever	O
+isn	O
+'	O
+t	O
+he	O
+?	O
+
+IMGID:O_3198
+Anne	B-PER
+Hathaway	I-PER
+And	O
+James	B-PER
+Corden	I-PER
+Face	O
+Off	O
+In	O
+Rap	O
+Battle	O
+.	O
+.	O
+.	O
+
+IMGID:O_2903
+Ellen	B-PER
+DeGeneres	I-PER
+jokingly	O
+shades	O
+Kim	B-PER
+K	I-PER
+for	O
+wearing	O
+clothes	O
+in	O
+new	O
+pic	O
+
+IMGID:16_05_10_96
+Baseball	O
+Senior	O
+Night	O
+-	O
+Congratulations	O
+to	O
+Michael	B-PER
+Martino	I-PER
+.	O
+
+IMGID:O_3918
+MONSTA	B-PER
+X	I-PER
+FANSITES	O
+WERE	O
+WAITING	O
+AT	O
+THE	O
+AIRPORT	O
+BUT	O
+TOM	B-PER
+CRUISE	I-PER
+CAME	O
+OUT	O
+THE	O
+SAME	O
+EXIT	O
+BEFORE	O
+MONSTA	B-PER
+X	I-PER
+LMAOOHCSJD	O
+
+IMGID:O_2254
+Sarah	B-PER
+Silverman	I-PER
+:	O
+Don	O
+’	O
+t	O
+You	O
+Give	O
+Up	O
+On	O
+Bernie	B-PER
+
+IMGID:O_4828
+Ellie	B-PER
+ain	O
+'	O
+t	O
+here	O
+for	O
+you	O
+Donald	B-PER
+Trump	I-PER
+supporters	O
+.	O
+👋	O
+🏾	O
+
+IMGID:O_2460
+garancedore	O
+:	O
+Do	O
+you	O
+find	O
+Jennifer	B-PER
+Lawrence	I-PER
+as	O
+charming	O
+as	O
+we	O
+do	O
+?	O
+/	O
+
+IMGID:O_2025
+#	O
+ChrisBrown	B-PER
+#	O
+Actor	O
+Chris	B-PER
+Brown	I-PER
+,	O
+Trey	B-PER
+Songz	I-PER
+,	O
+Tyga	B-PER
+2015	O
+Concert	O
+Tour	O
+T	O
+-	O
+Shirt	O
+
+IMGID:17_01_17423
+New	O
+episode	O
+out	O
+with	O
+@	O
+robynbaldwin	B-PER
+where	O
+we	O
+talk	O
+about	O
+a	O
+variety	O
+of	O
+topics	O
+including	O
+growi	O
+…	O
+
+IMGID:O_891
+Taylor	B-PER
+posing	O
+with	O
+her	O
+Taylor	B-PER
+Swift	I-PER
+Award	O
+at	O
+the	O
+#	O
+BMIPopAwards	O
+
+IMGID:O_4094
+The	O
+love	O
+Nick	B-PER
+Jonas	I-PER
+has	O
+for	O
+his	O
+fans	O
+is	O
+amazing	O
+.	O
+No	O
+one	O
+else	O
+would	O
+do	O
+this	O
+.	O
+.	O
+👏	O
+🏻	O
+👏	O
+🏻	O
+
+IMGID:O_4343
+23	O
+years	O
+ago	O
+today	O
+,	O
+Harry	B-PER
+Potter	I-PER
+entered	O
+the	O
+Chamber	O
+of	O
+Secrets	O
+to	O
+kill	O
+the	O
+Basilisk	O
+and	O
+destroy	O
+the	O
+diary	O
+Horcrux	O
+
+IMGID:O_2712
+The	O
+concerts	O
+of	O
+One	B-PER
+Direction	I-PER
+live	O
+once	O
+in	O
+life	O
+#	O
+ThankYou1D	O
+
+IMGID:O_1440
+Emma	B-PER
+Roberts	I-PER
+.	O
+Arrested	O
+for	O
+domestic	O
+violence	O
+against	O
+Evan	B-PER
+Peters	I-PER
+.	O
+
+IMGID:O_2055
+Richard	B-PER
+Branson	I-PER
+on	O
+why	O
+growth	O
+happens	O
+outside	O
+your	O
+comfort	O
+zone	O
+.	O
+
+IMGID:16_05_09_733
+Lady	B-PER
+Gaga	I-PER
+Shocks	O
+Fans	O
+Climbing	O
+Out	O
+Of	O
+A	O
+Giant	O
+Inflatable	O
+…	O
+:	O
+
+IMGID:O_4864
+Kim	B-PER
+Jong	I-PER
+Un	I-PER
+said	O
+that	O
+jacket	O
+Mrs	O
+.	O
+Bill	B-PER
+Clinton	I-PER
+has	O
+on	O
+was	O
+stolen	O
+from	O
+his	O
+closet	O
+.	O
+
+IMGID:O_4119
+Wow	O
+!	O
+This	O
+Justin	B-PER
+Bieber	I-PER
+fan	O
+art	O
+is	O
+incredible	O
+.	O
+.	O
+.	O
+#	O
+PurposeTour	O
+inspired	O
+.	O
+
+IMGID:O_1745
+Donald	B-PER
+Trump	I-PER
+with	O
+the	O
+hottest	O
+group	O
+of	O
+supporters	O
+for	O
+a	O
+Presidential	O
+speech	O
+in	O
+world	O
+history	O
+.	O
+
+IMGID:17_06_12658
+NBA	B-PER
+Top	O
+100	O
+day	O
+two	O
+:	O
+David	B-PER
+McCormack	I-PER
+controls	O
+the	O
+paint	O
+#	O
+BamaHoops	O
+
+IMGID:O_3763
+Justin	B-PER
+Timberlake	I-PER
+is	O
+working	O
+with	O
+The	B-PER
+Weeknd	I-PER
+on	O
+his	O
+new	O
+album	O
+:	O
+
+IMGID:O_3243
+Christina	B-PER
+Aguilera	I-PER
+doing	O
+musical	O
+impressions	O
+is	O
+all	O
+you	O
+need	O
+to	O
+watch	O
+today	O
+:	O
+
+IMGID:O_3551
+Big	O
+-	O
+hearted	O
+millionaire	O
+David	B-PER
+Beckham	I-PER
+'	O
+buys	O
+homeless	O
+man	O
+a	O
+burger	O
+and	O
+beer	O
+'	O
+
+IMGID:16_05_14_374
+Thank	O
+you	O
+to	O
+Mr	O
+Holmes	B-PER
+and	O
+Mr	O
+Petrie	B-PER
+for	O
+a	O
+great	O
+football	O
+season	O
+.	O
+Well	O
+deserved	O
+win	O
+chaps	O
+!	O
+
+IMGID:O_1074
+NEW	O
+@	O
+chancetherapper	O
+'	O
+No	O
+Problem	O
+'	O
+ft	O
+.	O
+Lil	B-PER
+Wayne	I-PER
+and	O
+2	B-PER
+Chainz	I-PER
+officially	O
+released	O
+.	O
+
+IMGID:O_2744
+Libertarian	O
+candidate	O
+:	O
+What	O
+Donald	B-PER
+Trump	I-PER
+says	O
+is	O
+"	O
+ridiculous	O
+"	O
+
+IMGID:O_4973
+Q	O
+.	O
+Donald	B-PER
+Trump	I-PER
+,	O
+Hillary	B-PER
+Clinton	I-PER
+and	O
+Ted	B-PER
+Cruz	I-PER
+are	O
+on	O
+a	O
+plane	O
+.	O
+The	O
+plane	O
+crashes	O
+.	O
+Who	O
+survives	O
+?	O
+
+IMGID:O_1564
+Daniel	B-PER
+Radcliffe	I-PER
+morphs	O
+into	O
+Elijah	B-PER
+Wood	I-PER
+in	O
+mesmerising	O
+,	O
+.	O
+.	O
+.	O
+
+IMGID:O_2692
+Bill	B-PER
+Gates	I-PER
+and	O
+Neal	B-PER
+Stephenson	I-PER
+drive	O
+into	O
+the	O
+future	O
+in	O
+a	O
+Tesla	O
+in	O
+VR	O
+
+IMGID:O_1544
+Damn	O
+:	O
+Jim	B-PER
+Carrey	I-PER
+Set	O
+To	O
+Face	O
+Trial	O
+In	O
+2018	O
+Over	O
+Ex	O
+-	O
+Girlfriend	O
+'	O
+s	O
+Death	O
+!	O
+
+IMGID:O_607
+My	O
+mom	O
+tells	O
+me	O
+she	O
+likes	O
+Harry	B-PER
+styles	I-PER
+and	O
+I	O
+asked	O
+her	O
+if	O
+she	O
+wants	O
+to	O
+go	O
+to	O
+his	O
+concert	O
+and	O
+she	O
+said	O
+no	O
+
+IMGID:O_2843
+Watch	O
+Jimmy	B-PER
+Fallon	I-PER
+Pour	O
+a	O
+Pitcher	O
+of	O
+Ice	O
+Water	O
+Down	O
+Chris	B-PER
+.	O
+.	O
+.	O
+
+IMGID:16_05_01_362
+Osinbajo	B-PER
+:	O
+VP	O
+says	O
+President	O
+Buhari	B-PER
+will	O
+sign	O
+2016	O
+budget	O
+soon	O
+
+IMGID:O_2534
+Watch	O
+Ted	B-PER
+Cruz	I-PER
+Announce	O
+Carly	B-PER
+Fiorina	I-PER
+as	O
+His	O
+Running	O
+Mate	O
+#	O
+Mainecaucus	O
+#	O
+election2016	O
+…	O
+
+IMGID:16_05_02_789
+New	O
+Concert	O
+:	O
+Terence	B-PER
+Blanchard	I-PER
+featuring	O
+the	O
+E	B-PER
+-	I-PER
+Collective	I-PER
+
+IMGID:O_2028
+LCD	B-PER
+Soundsystem	I-PER
+Proved	O
+David	B-PER
+Bowie	I-PER
+Was	O
+One	O
+of	O
+Their	O
+'	O
+Heroes	O
+'	O
+.	O
+.	O
+.	O
+
+IMGID:O_3142
+Kendrick	B-PER
+Lamar	I-PER
+on	O
+Iggy	B-PER
+Azalea	I-PER
+:	O
+"	O
+She	O
+'	O
+s	O
+doing	O
+her	O
+thing	O
+"	O
+
+IMGID:O_3579
+Jaxon	B-PER
+at	O
+Justin	B-PER
+Bieber	I-PER
+'	O
+s	O
+show	O
+tonight	O
+(	O
+May	O
+19	O
+th	O
+,	O
+2016	O
+)	O
+#	O
+PurposeTourToronto	O
+
+IMGID:O_494
+I	O
+found	O
+my	O
+Prince	O
+Charming	O
+and	O
+his	O
+name	O
+is	O
+Harry	B-PER
+Styles	I-PER
+👑	O
+-	O
+A	O
+✨	O
+
+IMGID:O_3314
+17	O
+Times	O
+Emma	B-PER
+Watson	I-PER
+Killed	O
+Us	O
+With	O
+Her	O
+Deadly	O
+Looks	O
+
+IMGID:O_1995
+OMG	O
+HARRY	B-PER
+STYLES	I-PER
+WITH	O
+SHORT	O
+HAIR	O
+I	O
+CANT	O
+HANDLE	O
+OMG	O
+WHO	O
+WOULD	O
+'	O
+VE	O
+BELIEVE	O
+THIS	O
+
+IMGID:O_443
+Kevin	B-PER
+Durant	I-PER
+has	O
+more	O
+points	O
+(	O
+23	O
+)	O
+than	O
+the	O
+Splash	B-PER
+Bros	I-PER
+combined	O
+(	O
+22	O
+)	O
+.	O
+
+IMGID:O_2065
+We	O
+are	O
+now	O
+reached	O
+16	O
+th	O
+place	O
+keep	O
+it	O
+up	O
+Beliebers	O
+#	O
+VeranoMTV2017	O
+Justin	B-PER
+Bieber	I-PER
+
+IMGID:O_1780
+J	B-PER
+.	I-PER
+Cole	I-PER
+why	O
+must	O
+you	O
+be	O
+so	O
+genius	O
+😭	O
+
+IMGID:O_1006
+Bromance	O
+nightmare	O
+:	O
+Vladimir	B-PER
+Putin	I-PER
+kisses	O
+Donald	B-PER
+Trump	I-PER
+on	O
+the	O
+lips	O
+in	O
+street	O
+mural	O
+
+IMGID:O_18
+Just	O
+realized	O
+the	O
+Mona	B-PER
+Lisa	I-PER
+looks	O
+just	O
+like	O
+Donald	B-PER
+Trump	I-PER
+Jr	I-PER
+I	O
+am	O
+literally	O
+shaking	O
+
+IMGID:O_3797
+Oberon	B-PER
+,	O
+Titania	B-PER
+and	O
+Puck	B-PER
+with	O
+fairies	O
+dancing	O
+'	O
+-	O
+William	B-PER
+Blake	I-PER
+,	O
+1786	O
+.	O
+
+IMGID:O_2400
+Richard	B-PER
+Nixon	I-PER
+was	O
+NEVER	O
+IMPEACHED	O
+!	O
+!	O
+BUT	O
+BILL	B-PER
+CLINTON	I-PER
+WAS	O
+!	O
+!	O
+#	O
+Watergate	O
+
+IMGID:O_147
+Donald	B-PER
+Trump	I-PER
+accuses	O
+Hillary	B-PER
+Clinton	I-PER
+of	O
+being	O
+"	O
+an	O
+unbelievably	O
+nasty	O
+,	O
+mean	O
+enabler	O
+"	O
+
+IMGID:O_1831
+#	O
+Entertainment	O
+#	O
+Buzz	O
+Vintage	O
+#	O
+Photo	O
+of	O
+Jessica	B-PER
+Alba	I-PER
+and	O
+Devon	B-PER
+Sawa	I-PER
+star	O
+in	O
+…	O
+
+IMGID:16_05_30_377
+Example	O
+is	O
+not	O
+the	O
+main	O
+thing	O
+in	O
+influencing	O
+others	O
+,	O
+it	O
+is	O
+the	O
+only	O
+thing	O
+.	O
+-	O
+Albert	B-PER
+Schweitzer	I-PER
+
+IMGID:O_3941
+Presented	O
+without	O
+comment	O
+:	O
+The	O
+first	O
+photos	O
+of	O
+Harry	B-PER
+Styles	I-PER
+'	O
+new	O
+haircut	O
+.	O
+
+IMGID:O_1277
+May	O
+The	O
+4	O
+th	O
+Be	O
+With	O
+You	O
+,	O
+Harry	B-PER
+Potter	I-PER
+style	O
+
+IMGID:O_3242
+Watch	O
+:	O
+Justin	B-PER
+Timberlake	I-PER
+'	O
+s	O
+@	O
+JTimberlake	B-PER
+dance	O
+-	O
+tastic	O
+#	O
+CantStopTheFeeling	O
+music	O
+video	O
+
+IMGID:O_1622
+Love	O
+💗	O
+this	O
+pic	O
+of	O
+my	O
+Mom	O
+Me	O
+;	O
+my	O
+lil	O
+brother	O
+Allan	B-PER
+.	O
+I	O
+'	O
+m	O
+still	O
+rocking	O
+my	O
+Bikini	O
+at	O
+age	O
+3	O
+😊	O
+👙	O
+
+IMGID:17_06_10811
+The	O
+drum	O
+of	O
+war	O
+is	O
+sounding	O
+very	O
+loud	O
+,	O
+Osinbajo	B-PER
+should	O
+Act	O
+now	O
+–	O
+Doyin	B-PER
+Okupe	I-PER
+
+IMGID:O_3987
+Ahhh	O
+😍	O
+😍	O
+janet	B-PER
+Jackson	I-PER
+being	O
+inspired	O
+by	O
+Kim	B-PER
+kardashians	I-PER
+boxer	O
+braids	O
+way	O
+back	O
+😍	O
+
+IMGID:16_05_08_26
+Amazing	O
+job	O
+.	O
+.	O
+I	O
+enjoyed	O
+the	O
+concert	O
+so	O
+much	O
+@	O
+CHRIS_Daughtry	B-PER
+
+IMGID:O_4840
+Salute	O
+to	O
+Hillary	B-PER
+.	O
+.	O
+thanks	O
+Michelle	B-PER
+Obama	I-PER
+.	O
+.	O
+w	O
+/	O
+different	O
+origins	O
+/	O
+race	O
+.	O
+color	O
+.	O
+creed	O
+.	O
+.	O
+.	O
+legacy	O
+lives	O
+
+IMGID:O_3323
+Chris	B-PER
+Brown	I-PER
+attended	O
+the	O
+cloning	O
+center	O
+as	O
+a	O
+REM	O
+driven	O
+clone	O
+of	O
+himself	O
+@	O
+Donald	B-PER
+Marshall	I-PER
+.	O
+.	O
+.	O
+.	O
+.	O
+
+IMGID:O_1814
+Justin	B-PER
+Trudeau	I-PER
+at	O
+pride	O
+today	O
+makes	O
+me	O
+wish	O
+we	O
+had	O
+a	O
+president	O
+.	O
+
+IMGID:16_05_17_569
+Chick	B-PER
+is	O
+pretty	O
+much	O
+the	O
+hottest	O
+baseball	O
+player	O
+
+IMGID:O_2492
+Donald	B-PER
+Trump	I-PER
+:	O
+"	O
+Taxes	O
+for	O
+the	O
+rich	O
+will	O
+go	O
+up	O
+somewhat	O
+"	O
+
+IMGID:O_2504
+Kim	B-PER
+Kardashian	I-PER
+'	O
+s	O
+bodyguard	O
+puts	O
+his	O
+hand	O
+near	O
+her	O
+curvy	O
+derriere	O
+
+IMGID:17_06_12420
+Happy	O
+birthday	O
+5	O
+th	O
+quarter	O
+!	O
+!	O
+!	O
+!	O
+Ur	O
+trash	O
+at	O
+basketball	O
+but	O
+have	O
+a	O
+good	O
+one	O
+❤	O
+❤	O
+❤	O
+@	O
+tsheets35	B-PER
+
+IMGID:O_1744
+james	B-PER
+mcavoy	I-PER
+throwing	O
+shade	O
+at	O
+jennifer	B-PER
+lawrence	I-PER
+:	O
+the	O
+saga	O
+continues	O
+
+IMGID:17_06_332
+Hi	O
+from	O
+pride	O
+(	O
+save	O
+me	O
+the	O
+dudebros	O
+behind	O
+me	O
+asking	O
+why	O
+there	O
+'	O
+s	O
+anti	O
+-	O
+Trump	B-PER
+signs	O
+in	O
+the	O
+parade	O
+)	O
+
+IMGID:O_1844
+Harry	B-PER
+Styles	I-PER
+would	O
+be	O
+proud	O
+of	O
+Justin	B-PER
+Bieber	I-PER
+'	O
+s	O
+deeply	O
+unbuttoned	O
+after	O
+-	O
+party	O
+shirt	O
+,	O
+tbh	O
+:	O
+
+IMGID:17_06_7116
+Footballer	O
+tiote	B-PER
+collapsed	O
+at	O
+practice	O
+and	O
+died	O
+in	O
+hospital	O
+
+IMGID:O_2249
+Harry	B-PER
+Potter	I-PER
+can	O
+'	O
+t	O
+enter	O
+the	O
+9	O
+3	O
+/	O
+4	O
+platform	O
+.	O
+It	O
+'	O
+s	O
+like	O
+me	O
+,	O
+I	O
+can	O
+'	O
+t	O
+enter	O
+your	O
+heart	O
+successfully	O
+.	O
+💔	O
+#	O
+HarryPotter	B-PER
+
+IMGID:17_06_3472
+.	O
+SteveScalise	B-PER
+remains	O
+in	O
+critical	O
+condition	O
+after	O
+shooting	O
+at	O
+baseball	O
+practice	O
+;	O
+dougmckelway	B-PER
+reports	O
+.	O
+
+IMGID:16_05_30_926
+@	O
+RobbyJohnson	B-PER
+good	O
+luck	O
+on	O
+the	O
+concert	O
+#	O
+1	O
+and	O
+Happy	O
+Memorial	O
+Day	O
+Robby	B-PER
+Johnson	I-PER
+love	O
+and	O
+happiness	O
+to	O
+you	O
+
+IMGID:O_4697
+Right	O
+.	O
+If	O
+J	B-PER
+.	I-PER
+K	I-PER
+.	I-PER
+Rowling	I-PER
+won	O
+'	O
+t	O
+post	O
+this	O
+then	O
+I	O
+will	O
+:	O
+
+IMGID:O_4826
+Kevin	B-PER
+Durant	I-PER
+on	O
+Game	O
+7	O
+:	O
+"	O
+If	O
+we	O
+walk	O
+in	O
+like	O
+it	O
+'	O
+s	O
+a	O
+funeral	O
+,	O
+then	O
+we	O
+already	O
+lost	O
+.	O
+”	O
+
+IMGID:O_4580
+Jennifer	B-PER
+Lawrence	I-PER
+and	O
+Emma	B-PER
+Watson	I-PER
+'	O
+s	O
+face	O
+put	O
+together	O
+😍	O
+😩	O
+
+IMGID:O_1037
+Kristen	B-PER
+Stewart	I-PER
+and	O
+Taylor	B-PER
+Lautner	I-PER
+reunited	O
+are	O
+they	O
+are	O
+so	O
+cute	O
+😭	O
+😭	O
+
+IMGID:O_4641
+That	O
+time	O
+Keith	B-PER
+Richards	I-PER
+pulled	O
+a	O
+knife	O
+on	O
+Donald	B-PER
+Trump	I-PER
+:	O
+
+IMGID:O_3867
+North	B-PER
+West	I-PER
+Throws	O
+Major	O
+Shade	O
+At	O
+Kim	B-PER
+Kardashian	I-PER
+During	O
+Car	O
+.	O
+.	O
+.	O
+
+IMGID:16_05_09_770
+nice	O
+when	O
+the	O
+guy	O
+w	O
+/	O
+the	O
+#	O
+1	O
+song	O
+in	O
+the	O
+country	O
+is	O
+playing	O
+your	O
+stations	O
+summer	O
+radio	O
+concert	O
+.	O
+congrats	O
+@	O
+MikePosner	B-PER
+
+IMGID:O_2949
+In	O
+Donald	B-PER
+Trump	I-PER
+,	O
+I	O
+found	O
+a	O
+very	O
+caring	O
+,	O
+compassionate	O
+man	O
+with	O
+integrity	O
+!	O
+—	O
+Pastor	O
+Paula	B-PER
+White	I-PER
+#	O
+dtmag	O
+
+IMGID:O_1914
+look	O
+at	O
+all	O
+my	O
+incredible	O
+friends	O
+i	O
+'	O
+ve	O
+made	O
+through	O
+one	B-PER
+direction	I-PER
+,	O
+i	O
+love	O
+and	O
+i	O
+'	O
+m	O
+missing	O
+you	O
+all	O
+💕	O
+
+IMGID:O_2817
+What	O
+are	O
+Harry	B-PER
+Styles	I-PER
+and	O
+Louis	B-PER
+Tomlinson	I-PER
+'	O
+s	O
+Exes	O
+Up	O
+to	O
+?	O
+.	O
+.	O
+.	O
+
+IMGID:O_1337
+I	O
+love	O
+Lana	B-PER
+Del	I-PER
+Rey	I-PER
+and	O
+Ed	B-PER
+Sheeran	I-PER
+
+IMGID:O_2264
+Young	O
+Tom	B-PER
+Felton	I-PER
+and	O
+Daniel	B-PER
+Radcliffe	I-PER
+behind	O
+the	O
+scenes	O
+
+IMGID:16_05_03_198
+@	O
+JustinVerlander	B-PER
+She	O
+finally	O
+said	O
+yes	O
+?	O
+!	O
+Nice	O
+lil	O
+baseball	O
+ring	O
+😎	O
+👍	O
+🏻	O
+
+IMGID:16_05_06_451
+Beyonce	B-PER
+in	O
+the	O
+rain	O
+at	O
+one	O
+of	O
+her	O
+concerts	O
+,	O
+still	O
+looking	O
+like	O
+a	O
+goddess	O
+
+IMGID:16_05_10_990
+@	O
+apocalypticafi	B-PER
+had	O
+a	O
+blast	O
+with	O
+my	O
+daughter	O
+for	O
+her	O
+first	O
+concert	O
+,	O
+thx	O
+for	O
+an	O
+awesome	O
+show	O
+
+IMGID:O_4279
+Snoop	B-PER
+out	O
+here	O
+looking	O
+like	O
+Crip	O
+Hugh	B-PER
+Hefner	I-PER
+😭	O
+
+IMGID:16_05_01_538
+@	O
+high_t1de	B-PER
+please	O
+send	O
+me	O
+a	O
+picture	O
+of	O
+when	O
+you	O
+beat	O
+us	O
+in	O
+the	O
+first	O
+ever	O
+college	O
+football	O
+playoff	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+😂	O
+
+IMGID:O_4118
+Reminder	O
+that	O
+Taylor	B-PER
+Swift	I-PER
+has	O
+tweeted	O
+about	O
+a	O
+blm	O
+march	O
+before	O
+and	O
+it	O
+resulted	O
+in	O
+this	O
+.	O
+
+IMGID:O_4311
+Knowing	O
+is	O
+not	O
+enough	O
+;	O
+we	O
+must	O
+apply	O
+.	O
+Being	O
+willing	O
+is	O
+not	O
+enough	O
+;	O
+we	O
+must	O
+do	O
+.	O
+Leonardo	B-PER
+da	I-PER
+Vinci	I-PER
+#	O
+quote	O
+
+IMGID:17_06_7418
+Kevin	B-PER
+Durant	I-PER
+calls	O
+Kristaps	B-PER
+Porzingis	I-PER
+a	O
+basketball	O
+.	O
+.	O
+.	O
+#	O
+KristapsPorzingis	B-PER
+
+IMGID:16_05_14_342
+Thanks	O
+a	O
+LOT	O
+,	O
+furniture	O
+store	O
+,	O
+for	O
+putting	O
+a	O
+pinball	O
+machine	O
+on	O
+the	O
+floor	O
+.	O
+I	O
+'	O
+ve	O
+lost	O
+my	O
+husband	O
+.	O
+@	O
+johnboyle	B-PER
+
+IMGID:O_3218
+the	O
+boy	O
+really	O
+becoming	O
+the	O
+man	O
+.	O
+congrats	O
+to	O
+my	O
+lil	O
+brother	O
+,	O
+welcome	O
+to	O
+the	O
+Alumni	O
+club	O
+.	O
+@	O
+ZyairJordan	B-PER
+
+IMGID:O_2403
+What	O
+J	B-PER
+.	I-PER
+Cole	I-PER
+meant	O
+by	O
+"	O
+That	O
+Jada	O
+and	O
+Will	O
+Love	O
+"	O
+
+IMGID:16_05_13_157
+Missed	O
+Micky	B-PER
+Dolenz	I-PER
+'	O
+s	O
+live	O
+performance	O
+?	O
+Watch	O
+whole	O
+concert	O
+here	O
+.	O
+Now	O
+!	O
+
+IMGID:O_2333
+My	O
+#	O
+TeenChoice	O
+nominee	O
+for	O
+#	O
+ChoiceMaleHottie	O
+is	O
+Harry	B-PER
+Styles	I-PER
+@	O
+Harry_Styles	B-PER
+
+IMGID:O_2777
+In	O
+swing	O
+states	O
+,	O
+Donald	B-PER
+Trump	I-PER
+leads	O
+Hillary	B-PER
+Clinton	I-PER
+by	O
+over	O
+30	O
+points	O
+among	O
+white	O
+men	O
+:	O
+
+IMGID:O_4370
+My	O
+kink	O
+is	O
+Harry	B-PER
+Styles	I-PER
+supporting	O
+and	O
+appreciating	O
+women	O
+for	O
+all	O
+their	O
+greatness	O
+.	O
+
+IMGID:O_109
+Tom	B-PER
+Brady	I-PER
+is	O
+No	O
+.	O
+1	O
+on	O
+the	O
+#	O
+NFLTop100	O
+Players	O
+of	O
+2017	O
+!	O
+
+IMGID:17_01_5147
+Sunflower	B-PER
+Bean	I-PER
+On	O
+Their	O
+Brilliant	O
+New	O
+Album	O
+…	O
+:	O
+
+IMGID:16_05_06_562
+100	O
+%	O
+sure	O
+yoongi	B-PER
+was	O
+saying	O
+something	O
+meaningful	O
+about	O
+the	O
+concert	O
+tomorrow	O
+😭	O
+💞	O
+
+IMGID:16_05_29_358
+[	O
+📩	O
+]	O
+a	O
+package	O
+for	O
+Apink	B-PER
+sunbaenim	O
+has	O
+arrived	O
+!	O
+!	O
+i	O
+hope	O
+unniedeul	O
+like	O
+it	O
+ㅋㅋㅋ	O
+@	O
+Avinkjej	B-PER
+
+IMGID:O_2554
+#	O
+Best	O
+Taylor	B-PER
+Swift	I-PER
+Hand	O
+Signed	O
+#	O
+Photo	O
+-	O
+Autographed	O
+8.5	O
+x	O
+11	O
+With	O
+COA	O
+.	O
+
+IMGID:O_2291
+Video	O
+-	O
+dj	B-PER
+breezy	I-PER
+ft	O
+.	O
+trey	B-PER
+songz	I-PER
+[	O
+zraig	O
+music	O
+]	O
+i	O
+need	O
+a	O
+carribean	O
+girl	O
+-	O
+
+IMGID:O_1284
+Ellie	B-PER
+Goulding	I-PER
+can	O
+'	O
+t	O
+decide	O
+who	O
+she	O
+hates	O
+more	O
+:	O
+Ramsay	B-PER
+Bolton	I-PER
+or	O
+Donald	B-PER
+Trump	I-PER
+
+IMGID:O_543
+I	O
+'	O
+ve	O
+never	O
+seen	O
+Mary	B-PER
+Kate	I-PER
+and	O
+Ashley	B-PER
+Olsen	I-PER
+'	O
+s	O
+texts	O
+,	O
+but	O
+I	O
+bet	O
+they	O
+look	O
+exactly	O
+like	O
+this	O
+:	O
+
+IMGID:O_1003
+WATCH	O
+:	O
+Ted	B-PER
+Cruz	I-PER
+Says	O
+'	O
+Donald	B-PER
+Trump	I-PER
+May	O
+Be	O
+a	O
+Rat	O
+but	O
+I	O
+Have	O
+No	O
+Desire	O
+to	O
+Copulate	O
+With	O
+Him	O
+'	O
+
+IMGID:16_05_11_921
+Exactly	O
+2	O
+years	O
+ago	O
+I	O
+was	O
+having	O
+the	O
+best	O
+time	O
+in	O
+my	O
+life	O
+❤	O
+I	O
+'	O
+ll	O
+never	O
+forget	O
+my	O
+first	O
+1	B-PER
+D	I-PER
+concert	O
+come	O
+back	O
+soon	O
+pls	O
+
+IMGID:O_2835
+John	B-PER
+Lennon	I-PER
+,	O
+Paul	B-PER
+McCartney	I-PER
+-	O
+The	O
+#	O
+Beatles	B-PER
+via	O
+@	O
+johncoxy2112	O
+
+IMGID:16_05_12_947
+I	O
+went	O
+to	O
+Justin	B-PER
+Bieber	I-PER
+'	O
+s	O
+concert	O
+*	O
+laughs	O
+*	O
+of	O
+course	O
+i	O
+have	O
+the	O
+fever	O
+!	O
+He	O
+'	O
+s	O
+a	O
+good	O
+friend	O
+i	O
+love	O
+to	O
+read	O
+this	O
+💘	O
+😭	O
+
+IMGID:O_1449
+the	O
+media	O
+has	O
+lost	O
+all	O
+chill	O
+with	O
+Chris	B-PER
+Brown	I-PER
+’	O
+s	O
+new	O
+documentary	O
+
+IMGID:O_2196
+Chris	B-PER
+Paul	I-PER
+and	O
+James	B-PER
+Harden	I-PER
+blaming	O
+each	O
+other	O
+after	O
+they	O
+lose	O
+in	O
+the	O
+second	O
+round	O
+
+IMGID:O_1583
+Edward	B-PER
+VII	I-PER
+died	O
+#	O
+OnThisDay	O
+in	O
+1910	O
+.	O
+He	O
+reigned	O
+from	O
+1901	O
+following	O
+death	O
+of	O
+Queen	B-PER
+Victoria	I-PER
+
+IMGID:O_2561
+Megyn	B-PER
+Kelly	I-PER
+Hits	O
+Back	O
+at	O
+Jokes	O
+About	O
+Handling	O
+Donald	B-PER
+Trump	I-PER
+.	O
+.	O
+.	O
+
+IMGID:16_05_20_506
+Messi	B-PER
+only	O
+THIRD	O
+in	O
+the	O
+top	O
+20	O
+footballer	O
+brands	O
+.	O
+.	O
+.	O
+
+IMGID:O_1048
+Live	O
+look	O
+at	O
+Russell	B-PER
+Westbrook	I-PER
+at	O
+the	O
+press	O
+conference	O
+
+IMGID:O_4406
+Donald	B-PER
+Trump	I-PER
+Jr	I-PER
+.	O
+Trolls	O
+Democrats	O
+After	O
+They	O
+Lose	O
+In	O
+Georgia	B-PER
+
+IMGID:O_4845
+Anne	B-PER
+Frank	I-PER
+'	O
+s	O
+family	O
+once	O
+their	O
+hiding	O
+spot	O
+was	O
+found	O
+
+IMGID:O_1395
+Someone	O
+commented	O
+on	O
+Ellie	B-PER
+Goulding	I-PER
+'	O
+s	O
+tweet	O
+about	O
+Donald	B-PER
+Trump	I-PER
+.	O
+Her	O
+reply	O
+was	O
+everything	O
+.	O
+👏	O
+
+IMGID:O_2382
+❤	O
+#	O
+JenniferLopez	B-PER
+$	O
+70	O
+JENNIFER	B-PER
+LOPEZ	I-PER
+Women	O
+'	O
+s	O
+Rhinestone	O
+Details	O
+Moroccan	O
+#	O
+Entertainment	O
+#	O
+Buzz	O
+…	O
+
+IMGID:17_06_7600
+if	O
+anyone	O
+wants	O
+a	O
+Lovelyz	B-PER
+summer	O
+concert	O
+header	O
+,	O
+i	O
+made	O
+this	O
+one	O
+~	O
+
+IMGID:O_1841
+Donald	B-PER
+Trump	I-PER
+Called	O
+Daryl	B-PER
+Hannah	I-PER
+“	O
+A	O
+Six	O
+”	O
+Who	O
+Needs	O
+A	O
+Bath	O
+During	O
+A	O
+1993	O
+Spat	O
+
+IMGID:16_05_02_447
+I	O
+vote	O
+#	O
+kathniel	B-PER
+for	O
+PH	O
+'	O
+s	O
+Most	O
+Influential	O
+Endorsers	O
+2016	O
+#	O
+MostInfluentialPair	O
+@	O
+starmometer	O
+
+IMGID:O_1556
+A	O
+number	O
+of	O
+would	O
+-	O
+be	O
+delegates	O
+are	O
+dropping	O
+out	O
+of	O
+the	O
+convention	O
+over	O
+Donald	B-PER
+Trump	I-PER
+
+IMGID:O_251
+Donald	B-PER
+Trump	I-PER
+is	O
+still	O
+obsessed	O
+with	O
+Hillary	B-PER
+Clinton	I-PER
+'	O
+s	O
+laugh	O
+:	O
+
+IMGID:O_1476
+Big	B-PER
+Mike	I-PER
+X	O
+David	B-PER
+Beckham	I-PER
+.	O
+Dreams	O
+come	O
+true	O
+.	O
+🙏	O
+❤	O
+️	O
+🌏	O
+
+IMGID:O_78
+@	O
+realDonaldTrump	B-PER
+Donald	B-PER
+Trump	I-PER
+HATES	O
+this	O
+photo	O
+of	O
+his	O
+two	O
+sons	O
+.	O
+Please	O
+don	O
+'	O
+t	O
+share	O
+it	O
+.	O
+
+IMGID:16_05_02_876
+In	O
+Surprise	O
+Concert	O
+,	O
+Drake	B-PER
+Confirms	O
+He	O
+’	O
+ll	O
+Release	O
+More	O
+M	O
+.	O
+.	O
+.	O
+
+IMGID:O_3288
+Taylor	B-PER
+Swift	I-PER
+and	O
+squad	O
+hit	O
+with	O
+death	O
+threats	O
+.	O
+.	O
+.	O
+
+IMGID:O_1961
+Johnny	B-PER
+Depp	I-PER
+apologizes	O
+for	O
+Donald	B-PER
+Trump	I-PER
+assassination	O
+joke	O
+
+IMGID:17_06_6068
+#	O
+nbanews	O
+Zach	B-PER
+Lowe	I-PER
+:	O
+One	O
+year	O
+after	O
+an	O
+unparalleled	O
+mistake	O
+,	O
+Draymond	B-PER
+Green	I-PER
+has	O
+no	O
+regrets	O
+
+IMGID:O_4295
+Too	O
+long	O
+to	O
+tweet	O
+.	O
+Too	O
+good	O
+to	O
+cut	O
+-	O
+The	O
+Danger	O
+of	O
+Flying	O
+Too	O
+Low	O
+-	O
+Seth	B-PER
+Godin	I-PER
+-	O
+see	O
+attached	O
+
+IMGID:16_05_08_615
+We	O
+are	O
+so	O
+excited	O
+to	O
+have	O
+the	O
+Inscoes	B-PER
+and	O
+Mayor	B-PER
+and	O
+Mrs	O
+.	O
+Stimpson	B-PER
+as	O
+our	O
+special	O
+guests	O
+for	O
+the	O
+concert	O
+!	O
+
+IMGID:16_05_23_420
+Here	O
+'	O
+s	O
+a	O
+chance	O
+to	O
+re	O
+-	O
+read	O
+our	O
+piece	O
+on	O
+José	B-PER
+Mourinho	I-PER
+,	O
+football	O
+’	O
+s	O
+Lord	O
+of	O
+Chaos	O
+
+IMGID:16_05_09_505
+HAPPY	O
+BIRTHDAY	O
+DAD	O
+,	O
+tell	O
+me	O
+how	O
+it	O
+feels	O
+to	O
+be	O
+legal	O
+🔥	O
+🔥	O
+go	O
+kick	O
+some	O
+baseball	O
+a	O
+*	O
+*	O
+in	O
+college	O
+⚾	O
+️	O
+🔥	O
+@	O
+luke_Miller1522	B-PER
+
+IMGID:O_2750
+This	O
+is	O
+why	O
+Chris	B-PER
+Paul	I-PER
+is	O
+the	O
+man	O
+
+IMGID:O_4816
+Wow	O
+!	O
+This	O
+is	O
+big	O
+.	O
+David	B-PER
+Cameron	I-PER
+has	O
+just	O
+been	O
+personally	O
+implicated	O
+in	O
+Tory	O
+Election	O
+Scandal	O
+
+IMGID:16_05_08_340
+jackson	B-PER
+'	O
+s	O
+mom	O
+comes	O
+to	O
+the	O
+concert	O
+!	O
+#	O
+FlyInShanghai	O
+
+IMGID:O_5112
+Kevin	B-PER
+Durant	I-PER
+asked	O
+about	O
+Billy	B-PER
+Donovan	I-PER
+earning	O
+the	O
+players	O
+respect	O
+.	O
+I	O
+loved	O
+his	O
+answer	O
+!	O
+
+IMGID:16_05_24_783
+It	O
+’	O
+s	O
+time	O
+to	O
+get	O
+festival	O
+ready	O
+,	O
+frassy	O
+style	O
+!	O
+@	O
+audreyleighton	B-PER
+:	O
+
+IMGID:O_1793
+These	O
+14	O
+photoshopped	O
+Kim	B-PER
+Jong	I-PER
+-	I-PER
+Un	I-PER
+photos	O
+are	O
+the	O
+Internet	O
+'	O
+s	O
+crowning	O
+achievement	O
+:	O
+
+IMGID:O_3123
+I	O
+'	O
+m	O
+with	O
+her	O
+.	O
+Former	O
+top	O
+John	B-PER
+McCain	I-PER
+aide	O
+says	O
+he	O
+'	O
+d	O
+back	O
+Hillary	B-PER
+Clinton	I-PER
+over	O
+Donald	B-PER
+Trump	I-PER
+
+IMGID:17_06_3933
+As	O
+Lionel	B-PER
+Messi	I-PER
+turns	O
+30,	O
+#	O
+HappyBirthday	O
+to	O
+one	O
+of	O
+the	O
+best	O
+footballers	O
+in	O
+history	O
+.	O
+
+IMGID:17_06_5165
+@	O
+BlizzFootball	O
+@	O
+JeffRisdon	B-PER
+He	O
+can	O
+be	O
+a	O
+nice	O
+part	O
+of	O
+a	O
+RBBC	O
+,	O
+I	O
+guess	O
+.	O
+.	O
+.	O
+.	O
+
+IMGID:O_901
+@	O
+Salonpas	O
+#	O
+fireHannity	O
+asking	O
+you	O
+to	O
+defund	O
+Sean	B-PER
+Hannity	I-PER
+'	O
+s	O
+propaganda	O
+,	O
+he	O
+hurts	O
+families	O
+!	O
+
+IMGID:17_06_10370
+our	O
+baby	O
+elliot	B-PER
+.	O
+pretty	O
+soon	O
+we	O
+'	O
+ll	O
+have	O
+a	O
+basketball	O
+team	O
+x	O
+
+IMGID:O_1060
+This	O
+bible	O
+verse	O
+is	O
+literally	O
+talking	O
+about	O
+Lady	B-PER
+Gaga	I-PER
+and	O
+how	O
+she	O
+will	O
+release	O
+her	O
+next	O
+album	O
+
+IMGID:O_571
+Secret	O
+Service	O
+investigating	O
+reports	O
+that	O
+Anonymous	O
+hacked	O
+Donald	B-PER
+Trump	I-PER
+
+IMGID:O_2451
+Justin	B-PER
+Bieber	I-PER
+broke	O
+history	O
+and	O
+global	O
+records	O
+from	O
+left	O
+and	O
+right	O
+but	O
+he	O
+only	O
+won	O
+2	O
+awards	O
+
+IMGID:O_4743
+New	O
+VR	O
+project	O
+heads	O
+to	O
+Anne	B-PER
+Frank	I-PER
+'	O
+s	O
+World	O
+War	O
+II	O
+hideaway	O
+
+IMGID:O_3211
+Donald	B-PER
+Trump	I-PER
+’	O
+s	O
+fast	O
+food	O
+hankerin	O
+’	O
+revives	O
+a	O
+nostalgic	O
+Ronald	B-PER
+Reagan	I-PER
+photo	O
+–	O
+who	O
+remembers	O
+…	O
+
+IMGID:O_998
+How	O
+to	O
+make	O
+haters	O
+shook	O
+level	O
+Taylor	B-PER
+Swift	I-PER
+#	O
+1989	O
+streamingparty	O
+
+IMGID:17_06_12862
+Dani	B-PER
+Alves	I-PER
+:	O
+"	O
+I	O
+don	O
+'	O
+t	O
+want	O
+to	O
+take	O
+anything	O
+away	O
+from	O
+Ronaldo	B-PER
+,	O
+but	O
+Messi	B-PER
+has	O
+much	O
+more	O
+influence	O
+on	O
+the	O
+game	O
+.	O
+"	O
+
+IMGID:O_4163
+When	O
+Shah	B-PER
+Rukh	I-PER
+Khan	I-PER
+turned	O
+on	O
+the	O
+SWAG	O
+at	O
+Preity	B-PER
+Zinta	I-PER
+and	O
+Gene	B-PER
+Goodenough	I-PER
+’	O
+s	O
+reception	O
+~	O
+
+IMGID:16_05_16_6
+Happy	O
+Birthday	O
+CornBall	B-PER
+😊	O
+@	O
+cornball11	B-PER
+hope	O
+you	O
+had	O
+a	O
+good	O
+one	O
+!	O
+
+IMGID:O_1301
+Hillary	B-PER
+Clinton	I-PER
+and	O
+Donald	B-PER
+Trump	I-PER
+Neck	O
+and	O
+Neck	O
+in	O
+3	O
+Battleground	O
+States	O
+-	O
+New	O
+Poll	O
+
+IMGID:O_1952
+always	O
+in	O
+my	O
+heart	O
+harry	B-PER
+'	O
+s	O
+hair	O
+,	O
+your	O
+sincerely	O
+one	B-PER
+direction	I-PER
+fandom	O
+💔	O
+💔	O
+
+IMGID:O_1154
+No	O
+one	O
+could	O
+tell	O
+Ashley	B-PER
+Tisdale	I-PER
+shit	O
+about	O
+fashion	O
+back	O
+in	O
+the	O
+2000	O
+'	O
+s	O
+.	O
+
+IMGID:O_3210
+BREAKING	O
+NEWS	O
+:	O
+FANS	O
+OF	O
+ONE	B-PER
+DIRECTION	I-PER
+ACTUALLY	O
+HAVE	O
+NO	O
+DESIRE	O
+TO	O
+DATE	O
+THE	O
+BOYS	O
+.	O
+(	O
+via	O
+@	O
+CelebMix1D	O
+)	O
+#	O
+1	O
+
+IMGID:17_06_1331
+Trying	O
+to	O
+convince	O
+my	O
+strict	O
+mother	O
+to	O
+allow	O
+me	O
+to	O
+go	O
+to	O
+@	O
+Logic301	B-PER
+'	O
+s	O
+concert	O
+.	O
+I	O
+think	O
+It	O
+went	O
+well	O
+
+IMGID:O_225
+Tom	B-PER
+Cotton	I-PER
+retweets	O
+,	O
+then	O
+deletes	O
+,	O
+tweet	O
+supporting	O
+anti	O
+-	O
+Donald	B-PER
+Trump	I-PER
+third	O
+party	O
+
+IMGID:O_988
+Top	O
+5	O
+people	O
+Donald	B-PER
+Trump	I-PER
+might	O
+pick	O
+as	O
+his	O
+vice	O
+president	O
+;	O
+Joni	B-PER
+Ernst	I-PER
+,	O
+Mary	B-PER
+Fallin	I-PER
+
+IMGID:O_4519
+harry	B-PER
+styles	I-PER
+is	O
+lyrically	O
+in	O
+the	O
+same	O
+tier	O
+as	O
+lil	B-PER
+pump	I-PER
+
+IMGID:O_2498
+“	O
+what	O
+if	O
+neil	B-PER
+degrasse	I-PER
+tyson	I-PER
+wrote	O
+fanfic	O
+porn	O
+?	O
+"	O
+
+IMGID:O_3359
+Call	O
+me	O
+Donald	B-PER
+Trump	I-PER
+because	O
+I	O
+'	O
+m	O
+about	O
+to	O
+ruin	O
+your	O
+life	O
+
