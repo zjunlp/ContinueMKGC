@@ -1,4 +1,6 @@
 # LMC
+Code and dataset for paper [Continual Multimodal Knowledge Graph Construction](https://arxiv.org/pdf/2305.08698v1.pdf).
+<div align=center><img src="./assets/arch.jpg" width="80%" height="80%" /></div>
 
 ## 1. Overview
 
@@ -100,7 +102,18 @@ python -u run.py --model_name='bert' --dataset_name='twitter17' --bert_name='ber
 ```
 
 
-
+## Citation
+If you use the code, please cite the following paper:
+```bibtex
+@misc{chen2023continual,
+      title={Continual Multimodal Knowledge Graph Construction}, 
+      author={Xiang Chen and Jintian Zhang and Xiaohan Wang and Tongtong Wu and Shumin Deng and Yongheng Wang and Luo Si and Huajun Chen and Ningyu Zhang},
+      year={2023},
+      eprint={2305.08698},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 
 
