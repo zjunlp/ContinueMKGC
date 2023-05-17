@@ -1,5 +1,6 @@
 # LMC
 Code and dataset for paper [Continual Multimodal Knowledge Graph Construction](https://arxiv.org/pdf/2305.08698v1.pdf).
+<div align=center><img src="./assets/arch.jpg" width="80%" height="80%" /></div>
 
 ## 1. Overview
 
