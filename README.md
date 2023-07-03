@@ -70,6 +70,7 @@ tar -xzvf data.tar.gz
 
 You will get a folder named `data`. Please merge the obtained folder `data` with the folder `MRE/data` provided by us. The merged file tree can refer to section 1.1.
 
+The **MD5** checksum of the `data.tar.gz` file is `f5337d7c91f22258581b9cb0ab569951`. Please verify this MD5 checksum to ensure that the file you downloaded is complete.
 
 
 ### 2.2 How to Run
