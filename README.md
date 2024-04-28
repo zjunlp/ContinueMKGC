@@ -1,5 +1,5 @@
 # MSPT
-Code and dataset for paper [Continual Multimodal Knowledge Graph Construction](https://arxiv.org/abs/2305.08698).
+Code and dataset for IJCAI 2024 paper [Continual Multimodal Knowledge Graph Construction](https://arxiv.org/abs/2305.08698).
 <div align=center><img src="./assets/arch.jpg" width="80%" height="80%" /></div>
 
 ## 1. Overview
