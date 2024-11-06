@@ -3,7 +3,7 @@ from torch import optim
 from tqdm import tqdm
 from sklearn.metrics import classification_report
 from transformers.optimization import get_linear_schedule_with_warmup
-from models.modeling_unimo_mike import ShareKey, START_SHARE_LAYER, GradKeyAndBias, AttentionReg, BertSelfAttention
+from models.modeling_unimo import ShareKey, START_SHARE_LAYER, GradKeyAndBias, AttentionReg, BertSelfAttention
 from processor.dataset import MMREDataset
 from models.unimo_model import UnimoREModel
 from torch.utils.data import DataLoader
